@@ -16,4 +16,10 @@
 - 版本管理：Git
 
 ## 🧩 项目结构（简要）
-Assets/ ├── Scripts/ # 核心脚本（角色控制、敌人AI、道具系统等） ├── Prefabs/ # 游戏预制体 ├── Animations/ # 动画文件 ├── UI/ # UI界面资源 ├── Scenes/ # 关卡场景 └── SO/ # ScriptableObject
+Assets/
+├── Scripts/           # 核心脚本（角色控制、敌人AI、道具系统等）
+├── Prefabs/           # 游戏预制体
+├── Animations/        # 动画文件
+├── UI/                # UI界面资源
+├── Scenes/            # 关卡场景
+└── SO/                # ScriptableObject 配置
